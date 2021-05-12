@@ -5,7 +5,13 @@
 npm install
 ```
 
-### Run
+## Run
 ```
 npm start
+```
+## Available APIs
+
+```
+/all
+
 ```
